@@ -10,7 +10,7 @@
     <hr>
     <p>Welcome to Drum Kit, where keystrokes become music notes! With every tap of W A S D J K or L keys on your keyboard, immerse yourself in a symphony of sounds ranging from drums to cymbals.</p>
     
-  <p>To experience the rhythm, click <a href="https://your-website-url.com" target="_blank">here</a>.</p>
+  <p>To experience the rhythm, click <a href="https://itzdiv.github.io/Drum-Kit/" >here</a>.</p>
     <hr>
     <img src="https://github.com/itzdiv/Drum-Kit/blob/main/images/image.png" alt="Drum Kit Preview">
 </body>
